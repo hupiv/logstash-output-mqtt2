@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.licenses      = ['Apache-2.0']
   s.summary       = 'Logstash MQTT OUTPUT'
   s.description   = 'Logstash MQTT OUTPUT to manage real time actions'
-  s.homepage      = 'https://www.hupi.io'
+  s.homepage      = 'https://github.com/hupiv/logstash-output-mqtt2'
   s.authors       = ['HUPI - Vincent Moreno']
   s.email         = ''
   s.require_paths = ['lib']
